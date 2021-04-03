@@ -11,3 +11,7 @@
    - `~/.local/share/UnrailedGame/GameSate/AllPlayers` (Linux)
 1. ???
 1. Profit!
+
+### Other stuff you might be interested in
+
+- **https://github.com/dudeofawesome/unrailed-save-scummer**
